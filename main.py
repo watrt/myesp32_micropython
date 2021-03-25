@@ -1,1 +1,1 @@
-exec(open('./wifi.py').read(),globals())
+import machinemachine.freq(240000000)exec(open('./wifi.py').read(),globals())
